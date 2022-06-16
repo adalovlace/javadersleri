@@ -19,4 +19,4 @@ public class teksailaritoplama {
         } while (n > 0);
         System.out.println("Tek sayılar toplamı : " + toplam);
     }
-}
+}  
